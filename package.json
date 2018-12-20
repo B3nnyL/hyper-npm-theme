@@ -1,0 +1,12 @@
+{
+  "name": "hyper-npm",
+  "version": "0.1.1",
+  "description": "A hyper theme inspired by npm",
+  "main": "index.js",
+  "author": {
+    "name": "Shuying Lin",
+    "email": "ciao@sylin.me",
+    "url": "https://github.com/B3nnyL"
+  },
+  "license": "MIT"
+}

@@ -1,6 +1,6 @@
 const backgroundColor = '#f3f3f3'
 const foregroundColor = '#6E7278'
-const cursorColor = '#333333'
+const cursorColor = '#6E7278'
 const borderColor = 'transparent'
 
 const colors = {
@@ -49,7 +49,6 @@ exports.decorateConfig = config => {
       }
       .tab_tab {
         color: ${foregroundColor};
-
       }
       .tab_tab:before {
       	border: 0;
@@ -58,7 +57,7 @@ exports.decorateConfig = config => {
         border: transparent;
         font-weight: bold;
         color: ${colors.red};
-        background-color: #F7D9D7;
+        background - color: #fdd8d6;
         border: ${colors.red}
       }
       .splitpane_divider {

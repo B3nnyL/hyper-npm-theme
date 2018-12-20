@@ -5,3 +5,6 @@ A hyper theme inspired by npm
 
 ### Credit:
 [NPM](https://www.npmjs.com)
+
+### License
+MIT

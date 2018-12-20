@@ -1,7 +1,7 @@
 {
   "name": "hyper-npm-theme",
   "version": "0.1.1",
-  "description": "A hyper theme inspired by npm",
+  "description": "A smart hyper theme inspired by npm",
   "main": "index.js",
   "author": {
     "name": "Shuying Lin",

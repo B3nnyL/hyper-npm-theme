@@ -1,6 +1,6 @@
 {
   "name": "hyper-npm-theme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A smart hyper theme inspired by npm",
   "main": "index.js",
   "author": {

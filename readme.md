@@ -2,11 +2,12 @@
 <p align="center">A hyper theme inspired by npm.js website</p>
 
 ### Screenshots
-![general](./screenshot-1.png)
 Displaying in [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
+![general](./screenshot-1.png)
 
-![ncdu](./screenshot-2.png)
 While playing with [ncdu](https://dev.yorhel.nl/ncdu)
+![ncdu](./screenshot-2.png)
+
 
 ### Credits:
 [npmjs](https://www.npmjs.com)
